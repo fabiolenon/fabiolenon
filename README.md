@@ -7,7 +7,7 @@ Profissional com formação técnica na área de Aviação Cívil, com destacado
 Habilidades: Inglês, informática, HTML5, CSS3, JavaScript, Git , GitHub.
 
 ## 💫 Um pouco mais sobre mim
-<p>💬 Pergunte-me sobre Desenvolvimento Front-End / Back-End</p>
+<p>💬 Pergunte-me sobre tecnologia e desenvolvimento</p>
 <p>Conheça minhas experiências <a href="https://www.linkedin.com/in/fabiolenon/">aqui</a></p>
 
 ## 💻 Habilidades
