@@ -2,9 +2,23 @@ Olá! 👋, meu nome é Fabio Lenon
 
 <img width="100%" src="https://media-exp1.licdn.com/dms/image/C4E16AQFpHQyprSLm-Q/profile-displaybackgroundimage-shrink_350_1400/0/1653853252863?e=1660780800&v=beta&t=IevfmX1PvpJAFUgxINrlcv8DnoMd_mHCVG3p-KeWkZo" alt="my banner">
 
-Profissional com formação técnica na área de Aviação Cívil, com destacado conhecimento de varejo e reconhecido pela excelência no atendimento a clientes. Aspirante de novas culturas e novos idiomas, tendo inglês de nível avançado (cursando). Desde sempre tive muito interesse e afinidade por tecnologia, demonstrando gosto e aptidão em aprender e me desenvolver nos assuntos referentes. Em transição de carreira para a área de tecnologia e desenvolvimento, disposto a exercer uma brilhante carreira com paixão, dedicação e reconhecimento na área. Anos de experiência me capacitaram a desenvolver boa comunicação, visão analítica e fácil integração com uma equipe de trabalho.
+Profissional com formação técnica na área de Aviação Cívil, com destacado conhecimento de varejo e reconhecido pela excelência no atendimento a clientes. Aspirante de novas culturas e novos idiomas, tendo inglês de nível avançado (cursando). Desde sempre tive muito interesse e afinidade por tecnologia, demonstrando gosto e aptidão em aprender e me desenvolver nos assuntos referentes. Em transição de carreira para a área de tecnologia e desenvolvimento, disposto a exercer uma brilhante carreira com paixão, dedicação e reconhecimento na área. Anos de experiência me capacitaram a desenvolver boa comunicação, visão analítica e fácil integração com uma equipe de trabalho, visando encorajar a equipe a alcançar seus objetivos.
+Busco sempre ser gentil e gosto de me importar com as pessoas, criando conexões e fazendo a diferença por onde passo. Sempre trabalhando meu autoconhecimento e humildade.
 
-Habilidades: Inglês, informática, HTML5, CSS3, JavaScript, Git , GitHub.
+Habilidades técnicas:
+- Inglês
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- GitHub
+
+Soft Skills:
+- Confiança
+- Proatividade
+- Trabalho em equipe
+- Comunicação
+- Otimismo
 
 ## 💫 Um pouco mais sobre mim
 <p>💬 Pergunte-me sobre tecnologia e desenvolvimento</p>
