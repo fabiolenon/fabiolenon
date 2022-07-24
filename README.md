@@ -1,6 +1,6 @@
 Olá! 👋, meu nome é Fabio Lenon
 
-<img width="100%" src=https://media-exp1.licdn.com/dms/image/C4D16AQGmcKnJoj-R5w/profile-displaybackgroundimage-shrink_350_1400/0/1658684113504?e=1664409600&v=beta&t=_HWW_jBgwwhrbfQXngwroudi6STyphToqtkT2tkm8n4 alt="my banner">
+<img width="100%" src="https://media-exp1.licdn.com/dms/image/C4D16AQGmcKnJoj-R5w/profile-displaybackgroundimage-shrink_350_1400/0/1658684113504?e=1664409600&v=beta&t=_HWW_jBgwwhrbfQXngwroudi6STyphToqtkT2tkm8n4" alt="my banner">
 
 Profissional com formação técnica na área de Aviação Cívil, com destacado conhecimento de varejo e reconhecido pela excelência no atendimento a clientes. Aspirante de novas culturas e novos idiomas, tendo inglês de nível avançado (cursando). Desde sempre tive muito interesse e afinidade por tecnologia, demonstrando gosto e aptidão em aprender e me desenvolver nos assuntos referentes. Em transição de carreira para a área de tecnologia e desenvolvimento, disposto a exercer uma brilhante carreira com paixão, dedicação e reconhecimento na área. Anos de experiência me capacitaram a desenvolver boa comunicação, visão analítica e fácil integração com uma equipe de trabalho, visando encorajar a equipe a alcançar seus objetivos.
 Busco sempre ser gentil e gosto de me importar com as pessoas, criando conexões e fazendo a diferença por onde passo. Sempre trabalhando meu autoconhecimento e humildade.
