@@ -38,3 +38,9 @@ Soft Skills:
 <a href="https://wa.me/5511988703229"><img src=https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://www.instagram.com/fabiolenonfls/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
+
+## 📊 Github Status
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=fabiolenon&show_icons=true"><p>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiolenon&layout=compact"><p>
