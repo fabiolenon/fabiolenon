@@ -1,12 +1,16 @@
-Olá! 👋, meu nome é Fabio Lenon
+Hi! 👋,my name is Fabio Lenon.
 
 <img width="100%" src="https://media-exp1.licdn.com/dms/image/C4D16AQGmcKnJoj-R5w/profile-displaybackgroundimage-shrink_350_1400/0/1658684113504?e=1664409600&v=beta&t=_HWW_jBgwwhrbfQXngwroudi6STyphToqtkT2tkm8n4" alt="my banner">
 
-Profissional com formação técnica na área de Aviação Cívil, com destacado conhecimento de varejo e reconhecido pela excelência no atendimento a clientes. Aspirante de novas culturas e novos idiomas, tendo inglês de nível avançado (cursando). Desde sempre tive muito interesse e afinidade por tecnologia, demonstrando gosto e aptidão em aprender e me desenvolver nos assuntos referentes. Em 2022 a curiosidade despertou em mim interesse por programaçao, e assim me fazendo descobrir o que realmente quero seguir. Atualmente em transição de carreira para a área de tecnologia, disposto a exercer uma brilhante carreira com paixão, dedicação e reconhecimento na área. Anos de experiência me capacitaram a desenvolver boa comunicação, visão analítica e fácil integração com uma equipe de trabalho, visando encorajar a equipe a alcançar seus objetivos.
-Busco sempre ser gentil e gosto de me importar com as pessoas, criando conexões e fazendo a diferença por onde passo. Sempre trabalhando meu autoconhecimento e humildade.
+Professional with technical training in the Civil Aviation area, with a lot of retail experience and customer service. 
+Years of experience enabled me to develop good communication, easy integration with work team, to be confident of myself and have a good emotional intelligence. 
+Aspirant of new cultures and new languages, been an advanced English speaker (attending). 
+I have always had a lot of interest and affinity for technology, showing taste and aptitude for learning and developing myself in the related subjects. 
+In 2022 I discovered the programming world, and as long as I went deep on it, i became more interested and motivated for it. So I decided that it is what I want for my career. 
+In my personal life, I always tend to be kind to others trying to live with good humor, creating connections and making the difference wherever I go. 
 
-Habilidades técnicas:
-- Inglês
+Technical Skills:
+- English
 - HTML5
 - CSS3
 - JavaScript
@@ -14,17 +18,17 @@ Habilidades técnicas:
 - GitHub
 
 Soft Skills:
-- Confiança
-- Proatividade
-- Trabalho em equipe
-- Comunicação
-- Otimismo
+- Proactivity
+- Team work
+- Communication
+- Emotional intelligence
+- Adaptability
 
-## 💫 Um pouco mais sobre mim
-<p>💬 Pergunte-me sobre tecnologia e desenvolvimento</p>
-<p>Conheça minhas experiências <a href="https://www.linkedin.com/in/fabiolenon/">aqui</a></p>
+## 💫 A little more about me
+<p>💬 Ask me about technology and programming</p>
+<p>Know my experiences <a href="https://www.linkedin.com/in/fabiolenon/">here</a></p>
 
-## 💻 Habilidades
+## 💻 Skills
 <p>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
@@ -32,7 +36,7 @@ Soft Skills:
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </p>
 
-## 👥 Conecte-se comigo
+## 👥 Connect with me
 <p>
 <a href="https://www.linkedin.com/in/fabiolenon/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://wa.me/5511988703229"><img src=https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white style="margin-bottom: 4px;" height="30px" target="_blank"></a>
