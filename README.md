@@ -1,6 +1,6 @@
 Hi! 👋,my name is Fabio Lenon.
 
-<img width="100%" src="https://media-exp1.licdn.com/dms/image/C4D16AQGmcKnJoj-R5w/profile-displaybackgroundimage-shrink_350_1400/0/1658684113504?e=1664409600&v=beta&t=_HWW_jBgwwhrbfQXngwroudi6STyphToqtkT2tkm8n4" alt="my banner">
+<img width="100%" src="https://media-exp1.licdn.com/dms/image/C4D16AQGmcKnJoj-R5w/profile-displaybackgroundimage-shrink_350_1400/0/1658684113504?e=1670457600&v=beta&t=sLDDpJllDPHIYYxMqAi38n8gPkHE-Pp1lyOpN_GLvso" alt="my banner">
 
 Professional with technical training in the Civil Aviation area, with a lot of retail experience and customer service. 
 Years of experience enabled me to develop good communication, easy integration with work team, to be confident of myself and have a good emotional intelligence. 
