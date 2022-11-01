@@ -11,10 +11,11 @@ In my personal life, I always tend to be kind to others trying to live with good
 
 Technical Skills:
 - English
+- JavaScript
+- Java
+- SQL
 - HTML5
 - CSS3
-- JavaScript
-- NodeJS
 - Git
 - GitHub
 
