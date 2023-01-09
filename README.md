@@ -10,7 +10,6 @@ In 2022 I discovered the programming world, and as long as I went deep on it, i 
 In my personal life, I always tend to be kind to others trying to live with good humor, creating connections and making the difference wherever I go. 
 
 Technical Skills:
-- English
 - JavaScript
 - Java
 - Angular
