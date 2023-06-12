@@ -2,9 +2,11 @@ Hi! 👋,my name is Fabio Lenon.
 
 Developer acquiring experience through personal projects uploaded on GitHub.
 Passionate about technology and being part of this world.
+
 Self-taught.
 
 Knowledge:
+
 -BACKEND: Java
 
 -FRONTEND: HTML5, CSS, JavaScript, Angular
