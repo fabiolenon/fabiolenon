@@ -1,30 +1,19 @@
 Hi! 👋,my name is Fabio Lenon.
 
-<img width="100%" src="https://media.licdn.com/dms/image/C4D16AQGmcKnJoj-R5w/profile-displaybackgroundimage-shrink_350_1400/0/1658684113504?e=1678924800&v=beta&t=PUfQioi3jUSUrobJZ-54WHFTW4QY9n4IsHkY-WdKL7g" alt="my banner">
+Developer acquiring experience through personal projects uploaded on GitHub.
+Passionate about technology and being part of this world.
+Self-taught.
 
-Professional with technical training in the Civil Aviation area, with a lot of retail experience and customer service. 
-Years of experience enabled me to develop good communication, easy integration with work team, to be confident of myself and have a good emotional intelligence. 
-Aspirant of new cultures and new languages, been an advanced English speaker (attending). 
-I have always had a lot of interest and affinity for technology, showing taste and aptitude for learning and developing myself in the related subjects. 
-In 2022 I discovered the programming world, and as long as I went deep on it, i became more interested and motivated for it. So I decided that it is what I want for my career. 
-In my personal life, I always tend to be kind to others trying to live with good humor, creating connections and making the difference wherever I go. 
+Knowledge:
+-BACKEND: Java
 
-Technical Skills:
-- JavaScript
-- Java
-- Angular
-- SQL
-- HTML5
-- CSS3
-- Git
-- GitHub
+-FRONTEND: HTML5, CSS, JavaScript, Angular
 
-Soft Skills:
-- Proactivity
-- Team work
-- Communication
-- Emotional intelligence
-- Adaptability
+-SQL/Databases: MySQL
+
+-Git
+
+-English
 
 ## 💫 A little more about me
 <p>💬 Ask me about technology and programming</p>
