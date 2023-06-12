@@ -17,6 +17,10 @@ Knowledge:
 
 -English
 
+Link to some projects:
+
+https://linktr.ee/fabiolenon
+
 ## 💫 A little more about me
 <p>💬 Ask me about technology and programming</p>
 <p>Know my experiences <a href="https://www.linkedin.com/in/fabiolenon/">here</a></p>
