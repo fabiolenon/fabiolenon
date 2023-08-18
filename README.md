@@ -9,7 +9,7 @@ Knowledge:
 
 -BACKEND: Java
 
--FRONTEND: HTML5, CSS, JavaScript, Angular
+-FRONTEND: HTML5, CSS, JavaScript, TypeScript, React, Angular
 
 -SQL/Databases: MySQL
 
